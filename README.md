@@ -38,4 +38,6 @@
     * <img src="result/3. next-picture.png" width="450" />
   * Previous Image:
     * <img src="result/4. previous-picture.png" width="450" />
+   
+* Sample usage and behaviour: https://cdn.rawgit.com/AndrewMitev/Custom-JQuery-Gallery/master/task-resources/index.html
   
